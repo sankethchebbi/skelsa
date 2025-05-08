@@ -23,8 +23,7 @@
 		{
 			"group": "Genesis",
 			"pages": [
-				"Introduction",
-				"files/on"
+				"Introduction"
 			]
 		},
 		{
@@ -35,24 +34,40 @@
 			]
 		},
 		{
-			"group": "Legal",
-			"pages": [
-				"finance/finance",
-				"finance/model_framework"
-			]
-		},
-		{
 			"group": "Operations",
 			"pages": [
-				"finance/finance",
-				"finance/model_framework"
+				"ops/operating_manual"
 			]
 		},
 		{
 			"group": "Sales and Marketing",
 			"pages": [
-				"finance/finance",
-				"finance/model_framework"
+				"sales/skelsa_sales_strategy",
+				"sales/sales_reporting",
+				"sales/skelsa_new_sales_approval_template",
+				"sales/skelsa_monthly_churn_reporting_dashboard",
+				"sales/onboarding",
+				"sales/offboarding"
+			]
+		},
+		{
+			"group": "Legal",
+			"pages": [
+				"legal/skelsa_legal_checklist",
+				"legal/legal",
+				"legal/broker_terms",
+				"legal/term_sheet",
+				"legal/eoi_template",
+				"legal/esop_award",
+				"legal/fitouts_agreement",
+				"legal/lease_deed",
+				"legal/letter_of_intent",
+				"legal/non_disclosure_agreement",
+				"legal/possession_letter",
+				"legal/property_owner_noc",
+				"legal/skelsa_enterprise_membership_agreement",
+				"legal/skelsa_individual_membership_agreement",
+				"legal/term_sheet_template"
 			]
 		}
 	],
